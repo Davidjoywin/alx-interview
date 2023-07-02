@@ -25,4 +25,3 @@ def pascal_triangle(n):
             inner.append(1)
             outer.append(inner)
     return outer
-
